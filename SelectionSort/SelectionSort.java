@@ -2,7 +2,7 @@ package SelectionSort;
 
 public class SelectionSort {
     public static void main(String[] args) {
-        int[] sayilar = {-5,-10,7,3,82,4,5,-1000,-1250,300,200,99, 8, 8, 7 ,6, 8, 1};
+        int[] sayilar = {-5,-10,7,3,82,4,5};
         selectionSort(sayilar);
         diziYazdir(sayilar);
     }
